@@ -2,7 +2,7 @@
 
 ### AI & Machine Learning Researcher
 
-I am a Computer Science & Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and intelligent systems. My research focuses on developing trustworthy and explainable AI by combining Large Language Models, Agentic AI, Retrieval-Augmented Generation (RAG), Computer Vision, and Vision-Language Models to solve real-world problems in healthcare, remote sensing, and edge computing.
+I am a Computer Science & Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and intelligent systems. My research focuses on developing trustworthy, explainable, and autonomous AI by integrating Large Language Models, Agentic AI, Retrieval-Augmented Generation (RAG), Computer Vision, Vision-Language Models, and multimodal learning to advance next-generation intelligent systems.
 
 ---
 
@@ -29,54 +29,6 @@ I am a Computer Science & Engineering student with a strong interest in Artifici
 - 📚 Conducting research, contributing to open-source projects, and building reproducible AI systems.
 
 ---
-
-# 🚀 Featured Research
-
-## 🧬 scRNA-RAGent
-**Agentic AI Framework for End-to-End Single-Cell RNA-Seq Analysis**
-
-An autonomous multi-agent framework integrating LangGraph, Retrieval-Augmented Generation (RAG), Explainable AI (XAI), and computational bioinformatics to automate single-cell RNA sequencing analysis through natural language interaction.
-
-**Keywords**
-
-`LangGraph` `Agentic AI` `RAG` `Explainable AI` `scRNA-seq`
-
-**Project Details:** Coming Soon
-
----
-
-## 🛰️ Synthetic Satellite Images for Vision-Language Models
-
-A research project exploring GAN-generated synthetic satellite imagery to improve semantic learning and generalization of Vision-Language Models for remote sensing applications.
-
-**Keywords**
-
-`Computer Vision`
-`GAN`
-`Synthetic Data`
-`Remote Sensing`
-`Vision-Language Models`
-
-**Project Details:** Coming Soon
-
----
-
-## 🌐 Adaptive Edge-Assisted IoT Communication
-
-A secure and adaptive IoT communication framework integrating intelligent protocol selection, nanoservice orchestration, and lightweight cryptographic security for resource-constrained devices.
-
-**Keywords**
-
-`Edge Computing`
-`IoT`
-`CoAP`
-`MQTT`
-`Security`
-
-**Project Details:** Coming Soon
-
----
-
 
 
 # 🛠️ Technical Skills
@@ -123,15 +75,6 @@ A secure and adaptive IoT communication framework integrating intelligent protoc
 ---
 
 
-# 🏆 Achievements
-
-🥇 Champion — Final Year Project Showcase
-
-🥈 First Runner-up — Electronics Laboratory Project Competition
-
-🥉 Second Runner-up — Advanced Object-Oriented Programming Project Competition
-
-🎓 Merit-Based Academic Scholarship Recipient (All Trimesters)
 
 
 
