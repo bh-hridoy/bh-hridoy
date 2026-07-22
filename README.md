@@ -76,26 +76,7 @@ A secure and adaptive IoT communication framework integrating intelligent protoc
 
 ---
 
-# 💼 Selected Projects
 
-### 🎯 HireMate
-An AI-powered hiring platform featuring coding assessments, AI-based interviews, automated skill evaluation, and recruiter dashboards.
-
-**Tech Stack**
-
-React • NestJS • MySQL • Docker • AI APIs
-
----
-
-### 🗑️ Smart Dustbin Monitoring System
-
-An IoT-based waste monitoring system integrating Raspberry Pi, Arduino, environmental sensors, and cloud analytics for intelligent waste management.
-
-**Tech Stack**
-
-Python • Raspberry Pi • Arduino • PHP • MySQL
-
----
 
 # 🛠️ Technical Skills
 
@@ -140,15 +121,6 @@ Python • Raspberry Pi • Arduino • PHP • MySQL
 
 ---
 
-# 📚 Publications
-
-📝 **Under Preparation**
-
-- scRNA-RAGent: Agentic Framework for End-to-End Single-Cell RNA-Seq Analysis
-- Improving Satellite Image Understanding using GAN-Generated Synthetic Data and Vision-Language Models
-- Secure and Efficient IoT Device-to-Cloud Communication using Adaptive Edge-Assisted Architecture
-
----
 
 # 🏆 Achievements
 
@@ -160,19 +132,7 @@ Python • Raspberry Pi • Arduino • PHP • MySQL
 
 🎓 Merit-Based Academic Scholarship Recipient (All Trimesters)
 
----
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -197,5 +157,3 @@ Python • Raspberry Pi • Arduino • PHP • MySQL
 </p>
 
 ---
-
-> *"Building intelligent systems that are not only powerful, but also trustworthy, explainable, and impactful."*
