@@ -22,10 +22,11 @@ I am a Computer Science & Engineering student with a strong interest in Artifici
 
 ## 📌 Current Focus
 
-- 🧬 Developing **scRNA-RAGent**, an autonomous multi-agent framework for end-to-end single-cell RNA-seq analysis.
-- 🛰️ Investigating synthetic satellite image generation to improve Vision-Language Models.
-- 🌐 Designing adaptive edge-assisted architectures for secure IoT communication.
-- 🎓 Preparing research publications and Master's scholarship applications.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🧠 Building intelligent systems using Agentic AI, Large Language Models (LLMs), and autonomous reasoning.
+- 👁️ Exploring Computer Vision, Image Processing, Vision-Language Models (VLMs), and multimodal learning.
+- 🔍 Developing AI systems with Retrieval-Augmented Generation (RAG), Explainable AI (XAI), and trustworthy AI principles.
+- 📚 Conducting research, contributing to open-source projects, and building reproducible AI systems.
 
 ---
 
