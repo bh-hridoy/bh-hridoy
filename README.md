@@ -100,14 +100,14 @@ A secure and adaptive IoT communication framework integrating intelligent protoc
 
 ---
 
-## Bioinformatics
+## 🧬 Bioinformatics
 
-- Scanpy
-- AnnData
-- CellTypist
-- PAGA
-- Pandas
-- NumPy
+![Scanpy](https://img.shields.io/badge/Scanpy-2E86C1?style=for-the-badge)
+![AnnData](https://img.shields.io/badge/AnnData-5D6D7E?style=for-the-badge)
+![CellTypist](https://img.shields.io/badge/CellTypist-16A085?style=for-the-badge)
+![PAGA](https://img.shields.io/badge/PAGA-8E44AD?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
